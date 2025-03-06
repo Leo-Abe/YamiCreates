@@ -1,4 +1,19 @@
 body {
-    background-color: lightpink;
-    font-family: cursive;
+    background-color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+.home-video {
+    text-align: center;
+    margin: auto 0;
+}
+
+.special-occasion {
+    font-size: 40px;
+    font-weight: bold;
+    text-indent: 50px;
+    text-indent: 50px;
+    text-indent: 50px;
+    text-indent: 50px;
+}
+
