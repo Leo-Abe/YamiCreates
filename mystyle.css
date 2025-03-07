@@ -1,11 +1,21 @@
 body {
     background-color: whitesmoke;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Inter, serif;
+    font-size: 48px;
 }
 
 .home-video {
     text-align: center;
     margin: auto 0;
+}
+
+.our-purpose {
+    font-size: 30px;
+    font-weight: normal;
+    text-indent: 50px;
+    text-indent: 50px;
+    text-indent: 50px;
+
 }
 
 .special-occasion {
@@ -16,4 +26,3 @@ body {
     text-indent: 50px;
     text-indent: 50px;
 }
-
